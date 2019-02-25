@@ -1,4 +1,4 @@
-# OM-ega
+# OM-ega(Ω)
 Documentation repo for <i>Creating Orientation and Mobility Training Games for Perkins Students</i>
 
 # Project Description
