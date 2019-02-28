@@ -3,6 +3,7 @@ Documentation repo for <i>Creating Orientation and Mobility Training Games for P
 
 # Project Description
   - [Google Docs](https://docs.google.com/document/d/11aIhJHU_oLYSJf-liIW9z9f6yrXP1cNijaccuKYOVBk/edit#heading=h.2en5un9ep0kx)
+  - [Introduction Slides](https://drive.google.com/open?id=1X54S3NZhrRt-gjVjsBU6vz8ZPvWY5bKnPy_u22cTe6o)
 
 # Meeting Times
   - Monday (10:40am - 12:30pm)
