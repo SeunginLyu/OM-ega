@@ -1,7 +1,7 @@
 # Agenda
 
 -   [ ] Project Intro and Framing Presentation
-  - [Presentation](https://docs.google.com/presentation/d/1X54S3NZhrRt-gjVjsBU6vz8ZPvWY5bKnPy_u22cTe6o/edit#slide=id.p)
+  -  [Presentation](https://docs.google.com/presentation/d/1X54S3NZhrRt-gjVjsBU6vz8ZPvWY5bKnPy_u22cTe6o/edit#slide=id.p)
   -   [ ] Project description
   -   [ ] Community partner description
   -   [ ] Comparable and related work, status quo for partner, other background research
